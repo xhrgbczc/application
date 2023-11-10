@@ -1,8 +1,8 @@
 version: 3.8.1
 files:
-  - url: ee-win-3.8.0-x64.exe
-    sha512: 8uwtudUlyDoVlckppIXjJMc5FfTl2PVUEAWJ6kfVHM0C8xsYQgwaLOxX9E66XUhvbtcj2YPyfoGeKhrhccJdOQ==
-    size: 69836147
-path: ee-win-3.8.0-x64.exe
-sha512: 8uwtudUlyDoVlckppIXjJMc5FfTl2PVUEAWJ6kfVHM0C8xsYQgwaLOxX9E66XUhvbtcj2YPyfoGeKhrhccJdOQ==
-releaseDate: '2023-11-09T12:06:20.059Z'
+  - url: ee-win-3.8.1-x64.exe
+    sha512: Rno3TamaK90o2mBiJUot5GB+H/VV/5iPF1/et/lCfz6stBkjvNNqY2NZi+o0gPe7OEgzt38Y5t25Nc4I6Z6gSw==
+    size: 69835866
+path: ee-win-3.8.1-x64.exe
+sha512: Rno3TamaK90o2mBiJUot5GB+H/VV/5iPF1/et/lCfz6stBkjvNNqY2NZi+o0gPe7OEgzt38Y5t25Nc4I6Z6gSw==
+releaseDate: '2023-11-10T05:01:24.272Z'
